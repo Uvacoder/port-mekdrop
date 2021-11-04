@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["data/config-yml"],{KXQC:function(o){o.exports=JSON.parse('{"description":"Kas yra MekDrop? / Who is MekDrop?","name":"MekDrop"}')}}]);

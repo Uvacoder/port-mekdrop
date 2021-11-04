@@ -1,0 +1,29 @@
+{
+  "entrypoints": {
+    "main": {
+      "js": [
+        "./runtime.aba3a3f1.js",
+        "./main.8c2c4f75.js"
+      ],
+      "css": [
+        "./main.c29c146f.css"
+      ]
+    },
+    "icons": {
+      "js": [
+        "./runtime.aba3a3f1.js"
+      ],
+      "css": [
+        "./icons.07c4cfaa.css"
+      ]
+    },
+    "primevue": {
+      "js": [
+        "./runtime.aba3a3f1.js"
+      ],
+      "css": [
+        "./primevue.2f20bc6b.css"
+      ]
+    }
+  }
+}
